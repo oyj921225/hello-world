@@ -1,2 +1,3 @@
 # hello-world
-started git hub
+description about myself:
+a litlle bit curious and a little bit progress
